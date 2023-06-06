@@ -45,6 +45,7 @@ THEN I can save my initials and score
 
 Github URL: https://github.com/shavanapuchta/Code-Quiz-Module-4
 
+Deployed Site: http://127.0.0.1:5501/index.html
 
 
 
