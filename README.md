@@ -41,7 +41,9 @@ THEN I can save my initials and score
 
 <img width="146" alt="Screen Shot 2023-06-06 at 1 37 35 PM" src="https://github.com/shavanapuchta/Code-Quiz-Module-4/assets/119765380/2bdf3425-3cd7-4d25-900a-bc46a4d85dda">
 
-## Deployed Site
+## Site
+
+Github URL: https://github.com/shavanapuchta/Code-Quiz-Module-4
 
 
 
