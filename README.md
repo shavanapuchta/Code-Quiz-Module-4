@@ -26,6 +26,9 @@ THEN I can save my initials and score
 
 <img width="148" alt="Screen Shot 2023-06-06 at 1 36 19 PM" src="https://github.com/shavanapuchta/Code-Quiz-Module-4/assets/119765380/5f7b5368-c477-4c4f-a756-5aaac6b70023">
 
+
+
+
 <img width="398" alt="Screen Shot 2023-06-06 at 1 36 32 PM" src="https://github.com/shavanapuchta/Code-Quiz-Module-4/assets/119765380/f55fc6c0-c3bb-4252-abbf-4a7e6ec5d414">
 
 <img width="668" alt="Screen Shot 2023-06-06 at 1 36 41 PM" src="https://github.com/shavanapuchta/Code-Quiz-Module-4/assets/119765380/2acb4211-b29f-44d9-b19f-4435744b5a06">
